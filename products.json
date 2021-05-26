@@ -1,0 +1,188 @@
+[
+    {
+        "tip": "vin",
+        "nume": "Lacerta Feteasca Neagra",
+        "descriere": "Crama Lacerta deţine 82 de hectare cu viţă de vie în podgoria Dealu Mare, una dintre cele mai importante regiuni viticole din ţară și cea mai bună podgorie pentru obținerea de vinuri roșii.",
+        "poza": "/imagini/vinuri/Lacerta-Feteasca-Neagra.jpg",
+        "pret": "99 lei",
+        "culoare": "rosu"
+    },
+    {
+        "tip": "vin",
+        "nume": "Lacerta Cabernet Sauvignion",
+        "descriere": "Crama Lacerta deţine 82 de hectare cu viţă de vie în podgoria Dealu Mare, una dintre cele mai importante regiuni viticole din ţară și cea mai bună podgorie pentru obținerea de vinuri roșii. Are o culoare rosie intensa , cu note aromate de ardei gras, mure si fructe rosii.",
+        "poza": "/imagini/vinuri/Lacerta-Cabernet-Sauvignon.jpg",
+        "pret": "109 lei",
+        "culoare": "rosu"
+    },
+    {
+        "tip": "vin",
+        "nume": "Lacerta Cuvee IX",
+        "descriere": "Crama Lacerta deţine 82 de hectare cu viţă de vie în podgoria Dealu Mare, una dintre cele mai importante regiuni viticole din ţară și cea mai bună podgorie pentru obținerea de vinuri roșii. Cuvee IX este un cupaj roşu cu nuanţe bogate de fructe de pădure, ciocolată şi cafea",
+        "poza": "/imagini/vinuri/Lacerta-Cuvee-IX.jpg",
+        "pret": "129 lei",
+        "culoare": "rosu"
+    },
+    {
+        "tip": "vin",
+        "nume": "Stirbey Novac 2018",
+        "descriere": "Un soi de struguri autohton nascut la Dragasani. Vinul invechit in butoaie de stejar romanesc timp de minim 12 luni, reda arome dense de fructe si condimente cat si o structura catifelata si complexa in gura.",
+        "poza": "/imagini/vinuri/Stirbey-Novac-2018.jpg",
+        "pret": "120 lei",
+        "culoare": "rosu"
+    },
+    {
+        "tip": "vin",
+        "nume": "Bauer Petit Verdot",
+        "descriere": "Fondată in 2012, Crama Bauer se remarcă prin calitatea şi distincţia vinurilor, produse prin vinificarea unor cantităţi mici de struguri, din soiuri rare sau mai puţin cunoscute iubitorilor de vinuri, culese de pe parcele vechi, bine ingrijite din inima Podgoriei Drăgăşani. Petit Verdot este un soi foarte vechi şi foarte rar ce poate fi găsit în zone cultivate cu mai cunoscutele soiuri Cabernet sau Merlot.",
+        "poza": "/imagini/vinuri/Bauer-Petit-Verdot.jpg",
+        "pret": "185 lei",
+        "culoare": "rosu"
+    },
+    {
+        "tip": "vin",
+        "nume": "Bauer Cabernet Franc 2018",
+        "descriere": "Fondată in 2012, Crama Bauer se remarcă prin calitatea şi distincţia vinurilor, produse prin vinificarea unor cantităţi mici de struguri, din soiuri rare sau mai puţin cunoscute iubitorilor de vinuri, culese de pe parcele vechi, bine ingrijite din inima Podgoriei Drăgăşani.",
+        "poza": "/imagini/vinuri/Bauer-Cabernet-Franc-2018.jpg",
+        "pret": "125 lei",
+        "culoare": "rosu"
+    },
+    {
+        "tip": "vin",
+        "nume": "Lacerta Shiraz",
+        "descriere": "Crama Lacerta deţine 82 de hectare cu viţă de vie în podgoria Dealu Mare, una dintre cele mai importante regiuni viticole din ţară și cea mai bună podgorie pentru obținerea de vinuri roșii.",
+        "poza": "/imagini/vinuri/Lacerta-Shiraz.jpg",
+        "pret": "99 lei",
+        "culoare": "rosu"
+    },
+    {
+        "tip": "vin",
+        "nume": "Feudo-Nero D'Avola",
+        "descriere": "Soiul emblematic al Siciliei se dezvăluie într-o expresie remarcabil de fructuoasă, moale şi catifelată. Maturat timp de 6 luni în baric, vinul are arome intense de stafide, căpşuni sălbatice și rodie. În gură e catifelat, cu structură frumoasă și arome intense de fruct. Descoperiți tipicitatea soiului Nero d’Avola la un superb raport calitate-preț-plăcere!",
+        "poza": "/imagini/vinuri/Feudo-Nero-D'Avola.png",
+        "pret": "39 lei",
+        "culoare": "rosu"
+    },
+    {
+        "tip": "vin",
+        "nume": "Feudo-Syrah",
+        "descriere": "Cald şi ispititor, cu note picante de piper negru şi cimbru, pe fond de cireșe și fructe sălbatice. În gură e foarte plăcut, cu tanini catifelați.",
+        "poza": "/imagini/vinuri/Feudo-Nero-D'Avola.png",
+        "pret": "39 lei",
+        "culoare": "rosu"
+    },
+    {
+        "tip": "vin",
+        "nume": "Lacerta Chardonnay Reserva",
+        "descriere": "Crama Lacerta deţine 82 de hectare cu viţă de vie în podgoria Dealu Mare, una dintre cele mai importante regiuni viticole din ţară și cea mai bună podgorie pentru obținerea de vinuri roșii. Lacerta Chardonnay Reserva are o personalitate tonică şi elegantă și întâmpină frumos anotimpul cald graţie prospeţimii pe care o etalează în pahar.",
+        "poza": "/imagini/vinuri/Lacerta-Chardonnay-Reserva.jpg",
+        "pret": "89 lei",
+        "culoare": "alb"
+    },
+    {
+        "tip": "vin",
+        "nume": "Bauer Sauvignonasse",
+        "descriere": "Fondată in 2012, Crama Bauer se remarcă prin calitatea şi distincţia vinurilor, produse prin vinificarea unor cantităţi mici de struguri, din soiuri rare sau mai puţin cunoscute iubitorilor de vinuri, culese de pe parcele vechi, bine ingrijite din inima Podgoriei Drăgăşani. ",
+        "poza": "/imagini/vinuri/Bauer-Sauvignonasse.jpg",
+        "pret": "69 lei",
+        "culoare": "alb"
+    },
+    {
+        "tip": "vin",
+        "nume": "Ktima Gerovassiliou",
+        "descriere": "Rezultat dintr-un amestec de doua soiuri grecesti exceptionale: Malagouzia, distins prin caracter aromatic elegant si Assyrtiko, caracterizat de mineralitate exploziva si aciditate. Rezultatul: racoros, elegant, placut.",
+        "poza": "/imagini/vinuri/Ktima-Gerovassiliou.jpg",
+        "pret": "99 lei",
+        "culoare": "alb"
+    },
+    {
+        "tip": "vin",
+        "nume": "Malagousia Single Vineyard",
+        "descriere": "Acest vin este produs din soiul de struguri grecesc Malagousia care a fost salvat de la disparitie prin eforturile lui Vangelis Gerovassiliou.",
+        "poza": "/imagini/vinuri/Malagousia-Single-Vineyard.jpg",
+        "pret": "100 lei",
+        "culoare": "alb"
+    },
+    {
+        "tip": "vin",
+        "nume": "Estate Argyros Assyrtiko",
+        "descriere": "Cultivat pe sol vulcanic , este un vin 100% Assyrtiko. Soi indigen din  zona Santorini.",
+        "poza": "/imagini/vinuri/Estate-Argyros-Assyrtiko.jpg",
+        "pret": "149 lei",
+        "culoare": "alb"
+    },
+    {
+        "tip": "vin",
+        "nume": "Ktima Biblia Chora",
+        "descriere": "",
+        "poza": "/imagini/vinuri/Ktima-Biblia-Chora.jpg",
+        "pret": "95 lei",
+        "culoare": "alb"
+    },
+    {
+        "tip": "vin",
+        "nume": "Ktima Ovilos",
+        "descriere": "Un vin de culoare galben-verzui, care se matureaza in lemn de stejar timp de 8 luni.",
+        "poza": "/imagini/vinuri/Ktima-Ovilos.jpg",
+        "pret": "155 lei",
+        "culoare": "alb"
+    },
+    {
+        "tip": "vin",
+        "nume": "Feudo Pinot Grigio",
+        "descriere": "Din însorita Sicilie, un Pinot Grigio savuros! Maturat cinci luni pe drojdii, vinul e proaspăt și echilibrat, puţin acrişor, cu o mineralitate foarte plăcută. Lăsați-vă seduși de frumoasele arome de de piersici şi pere date în pârg, încununate de o adiere de flori galbene uscate. Un vin original, la un preț imbatabil!",
+        "poza": "/imagini/vinuri/Feudo-Pinot-Gringo.png",
+        "pret": "37 lei",
+        "culoare": "alb"
+    },
+    {
+        "tip": "vin",
+        "nume": "Iacob Alb",
+        "descriere": "Gust proaspat, fructuos, echilibrat, fin dar amplu, extractiv si persistent. Vin cu o culoare galben-verzui, buchet intens si persistent, floral, cu nuante de flori de vita de vie si note usor minerale, persistent.",
+        "poza": "/imagini/vinuri/IACOB-ALB.png",
+        "pret": "57 lei",
+        "culoare": "alb"
+    },
+    {
+        "tip": "cafea",
+        "nume": "El Salvador El Borbollon - Origo",
+        "descriere": "Este o cafea pe care am ales-o pentru dulceață și claritate în gust. Notele ne amintesc de măr roșu, caramel și rom. Are un corp mediu, rotund, cu o textură delicată și cu o aciditate medie-scăzută, malică și citrică.",
+        "poza": "/imagini/cafele/El-Salvador-El-Borbollon.jpg",
+        "pret": "40 lei"
+    },
+    {
+        "tip": "cafea",
+        "nume": "Burundi Gahahe - Origo",
+        "descriere": "Pe masa de cupping, Burundi Gahahe Washed s-a remarcat printr-o aciditate lactică și citrică dezvoltată frumos, un corp mediu și o textură suculentă, catifelată. Notele predominate pe fișele de degustare au fost: portocală, miere, coacăze roșii.",
+        "poza": "/imagini/cafele/Burundi-Gahahe-Origo.jpg",
+        "pret": "45 lei"
+    },
+    {
+        "tip": "cafea",
+        "nume": "Indonesia Frinsa - Origo",
+        "descriere": "Notele sunt surprinzătoare – ne amintesc de cireșe galbene, ciocolată neagră și piper. Este o cafea cu un corp mediu, o textură suculentă și cu o aciditate ridicată, acetică și citrică.",
+        "poza": "/imagini/cafele/Indonesia-Frinsa-Origo.png",
+        "pret": "60 lei"
+    },
+    {
+        "tip": "cafea",
+        "nume": "Peru ALADINO - Origo",
+        "descriere": "Am ales această cafea în mod special pentru complexitate, claritate în gust și aciditate. Notele sunt cuceritoare – ne amintesc de vinul roșu, de must, dar și de violete și alune de pădure coapte. Este o cafea catifelată, elegantă, cu aciditate plăcută, citrică, malică și tartarică.",
+        "poza": "/imagini/cafele/Peru-Aladino.png",
+        "pret": "50 lei"
+    },
+    {
+        "tip": "cafea",
+        "nume": "Burundi Gisha Gatare - Origo",
+        "descriere": "Am ales această cafea în mod special pentru textură, dulceață și aciditate. Notele sunt exotice, dulci – ca zahărul brun și amintesc spre final de gustul de alune coapte. Este o cafea corpolentă, cu o textură suculentă și o aciditate plăcută, citrică și tartarică.",
+        "poza": "/imagini/cafele/Burundi-Gisha-Gatare.png",
+        "pret": "50 lei"
+    },
+    {
+        "tip": "cafea",
+        "nume": "Columbia la Estrella - Origo",
+        "descriere": "Gustul evoluează treptat, dezvăluind note specifice lotului – ceai negru, căpșune, ciocolată cu lapte. Aciditatea susține perfect dulceața din ceașcă și o descriem prin 2 valențe – malică și acetică. Corpul îmbracă elegant papilele gustative, iar textura catifelată produce un efect rotund, bogat, delicat.",
+        "poza": "/imagini/cafele/Colombia-La-Estrellafata.png",
+        "pret": "90 lei"
+    }
+]

@@ -1,0 +1,37 @@
+<div class="sort">
+    <form action="./display-wine">
+        <input type="submit" class="vin-switch" value="VIN">
+    </form>
+    <form action="./display-coffee">
+        <input type="submit" class="cafea-switch" value="CAFEA">
+    </form>
+    <form action="./sort-products">
+        <select name="sortare" id="sortare">
+            <option value="alege">Sortați.</option>
+            <option value="sortare-pret-crescator">Sorteaza dupa pret crescator.</option>
+            <option value="sortare-pret-descrescator">Sorteaza dupa pret descrescator.</option>
+        </select>
+        <input type="submit" class="sort-list" value="SORTEAZĂ">
+    </form>
+</div>
+<div class="produse">
+    <% for (var i = 0; i < produse.length; i++) { %>
+            <item class="my-product">
+                <img class="imagine-produs" src="<%= produse[i].poza %>" alt="imagine vin" width="300px" height="300px">
+                <h2> <%= produse[i].nume  %></br> </h2>
+                <p class="descriere"> <%= produse[i].descriere  %></br> </p>
+                <h3 class="pret"> <%= produse[i].pret  %></br> </h3>
+                </br>
+                <div class="buttons">
+                    <form action="./adaugare_cos" method="POST">
+                        <input type="hidden" name="id" value=<%= produse[i].id %>>
+                        <input type="submit" class="add-basket">
+                    </form>
+                    <form action="./buy-this-item">
+                        <input type="submit" class="buy" name=<%= produse[i].nume %> value="Cumpara">
+                    </form>
+                </div>
+                </br>   
+            </item>
+    <% } %> 
+</div>
