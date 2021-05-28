@@ -1,15 +1,32 @@
 <div class="produse-cos">
-    <% for (var i = 0; i < produseDinCos.length; i++) { %>
-        <div class="produs-cos">
-            <div class="date-produs-cos">
-                <img class="imagine-produs" src="<%= produseDinCos[i].poza %>" alt="imagine vin" width="150px" height="150px">
-                <h2> <%= produseDinCos[i].nume  %></br> </h2>
-                <p class="descriere"> <%= produseDinCos[i].descriere  %></br> </p>
+    <h2>Cosul dumneavoastra: </h2>
+    <% if(typeof produseDinCos != 'undefined'){ %>
+        <% for (var i = 0; i < produseDinCos.length; i++) { %>
+            <div class="produs-cos">
+                <div class="imagine-produs-cos">
+                    <img class="imagine-produs" src="<%= produseDinCos[i].poza %>" alt="imagine vin" width="150px" height="150px">
+                </div>
+                <div class="descriere-produs-cos">
+                    <h3> <%= produseDinCos[i].nume  %> </h3>
+                    <p class="descriere-cos"> <%= produseDinCos[i].descriere  %> </p>
+                </div>
+                <div class="pret-cantitate-produs-cos">
+                    <h5 class="pret-cos"> Pret: <%= produseDinCos[i].pret  %> </h5>
+                    <h5 class="cantitate-cos"> Cantitate: <%= produseDinCos[i].cantitate %></h5>
+                </div>
             </div>
-            <div class="pret-si-cantitate-produs-cos">
-                <h3 class="pret"> Pret: <%= produseDinCos[i].pret  %></br> </h3>
-                <h3 class="cantitate"> Cantitate:  </h3>
-            </div>
-        </div>
-    <% } %> 
+        <% } %> 
+    <% } %>
+        <div class="checkout">
+        <h3 class="total-cos">Total cumparaturi: <%= total %> lei</h3>
+        <% if (typeof email != 'undefined'){ %>
+        <form action="./buy-this-item">
+            <input type="submit" class="finalizeaza-cumparaturile" value="Plateste">
+        </form>
+        <% } else { %>
+        <form action="./autentificare">
+            <input type="submit" class="finalizeaza-cumparaturile" value="Plateste">
+        </form>
+        <% } %>
+    </div>
 </div>

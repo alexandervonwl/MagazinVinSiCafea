@@ -6,19 +6,38 @@ body {
 }
 
 nav {
-  font-size: 25px;
+  display: flex;
+  font-size: 23px;
   color: #fff;
   background-color: #000;
-  width: 100%;
-  display: flex;
 }
 
 .main-nav {
   display: flex;
-  justify-content: space-evenly;
-}
-ul {
+  height: 80px;
+
+  align-items: center;
   width: 100%;
+}
+
+.nav-pages {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 65%;
+}
+
+.nav-user {
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: row;
+  font-size: 16px;
+  padding-right: 40px;
+  width: 35%;
+}
+
+.login-button {
+  margin-left: 40px;
 }
 
 .cos {
@@ -41,7 +60,7 @@ a {
   width: 100%;
   background-image: url("/imagini/background.jpg");
   background-size: cover;
-  height: 1400px;
+  height: 800px;
   background-repeat: no-repeat;
 }
 
@@ -171,6 +190,95 @@ a {
 }
 .pret {
   margin-top: -7px;
+}
+
+/* //////////   COS  ////////// */
+.produse-cos {
+  display: flex;
+  flex-direction: column;
+  width: 75%;
+  border: 1px solid #000;
+  margin-left: 20%;
+  margin-right: 5%;
+  margin-top: 30px;
+  margin-bottom: 100px;
+  padding: 40px;
+}
+.produs-cos {
+  display: flex;
+  padding: 20px;
+  border-bottom: 1px solid #000;
+}
+
+.produs-cos:last-of-type {
+  border-bottom: transparent;
+  padding-bottom: 20px;
+}
+
+.imagine-produs-cos {
+  display: flex;
+  width: 20%;
+  margin-left: 10px;
+}
+
+.descriere-produs-cos {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+}
+
+.pret-cantitate-produs-cos {
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+}
+
+.checkout {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 20px;
+}
+
+.total-cos {
+  display: flex;
+}
+
+.finalizeaza-cumparaturile {
+  display: flex;
+  color: #fff;
+  background-color: #000;
+  padding-top: 10;
+  height: 35px;
+  width: 100px;
+  justify-content: center;
+  align-items: center;
+}
+
+/* ////// AUTENTIFICARE //////// */
+.main-autentificare {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding-left: 200px;
+  height: 60vh;
+}
+.login {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+}
+
+.buton-autentificare {
+  display: flex;
+  color: #fff;
+  background-color: #000;
+  padding-top: 10;
+  height: 35px;
+  width: 100px;
+  justify-content: center;
+  align-items: center;
 }
 
 footer {

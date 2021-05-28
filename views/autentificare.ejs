@@ -1,0 +1,15 @@
+<% if(typeof eroare !='undefined' ){ %>
+    <h3 style="color: red"> <%=eroare%></h3>
+<% } %>
+<div class="main-autentificare">
+    <h1>Login</h1>
+    <h3>Conectati-va la contul dumneavoastră</h3>
+    <form class="login" method="POST" action="/verificare-autentificare">
+        <label name="nume">Nume utilizator:</label><input type="text" name="nume">
+        <label>Parola:</label><input type="password" name="parola">
+        <br>
+        <input type="submit" value="Autentificare" class="buton-autentificare">
+    </form>
+
+    <h1><a href="./inregistrare" >Creati un cont nou</a></h1>
+</div>

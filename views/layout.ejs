@@ -6,12 +6,24 @@
         <link rel="stylesheet" href="/stil/style.css">
     </head>
     <body>
-        <nav>
-            <ul class="main-nav">
-                <li><a href="./index">Home</a></li>
-                <li><a href="./store">Vin&Cafea</a></li>
-                <li><a href="./cos"><img class="cos" src="/imagini/cos.png" color="#FFF" alt="cos" width="30px" height="30px">Cos</a></li>
-            </ul>
+        <nav class="main-nav">
+            <div class="nav-pages">
+                <a href="./index">Home</a>
+                <a href="./store">Vin&Cafea</a>
+                <a href="./cos"><img class="cos" src="/imagini/cos.png" color="#FFF" alt="cos" width="30px" height="30px">Cos</a>
+            </div>
+            <div class="nav-user">
+                <% if (typeof email == 'undefined'){ %>
+                <a href="./inregistrare" class="register-button">Register</a>
+                <a href="./autentificare" class="login-button">Log in</a>
+                <% } else { %>
+                <p style="font-size: 14px;">Bine ai venit, <%= email %> ! 
+                    <% if (tip == 'admin') { %>
+                        <a href="./gestioneaza" class="login-button">Add New</a>
+                    <% } %>    
+                <a href="./delogare" class="login-button">Log Out</a></p>
+                <% } %>
+            </div>
         </nav>
         <main>
             <%- body -%>
